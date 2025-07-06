@@ -138,5 +138,7 @@ LooK-Back/
 - ⬜️ 🧹 The full codebase is being **cleaned and documented**
 
 ## 🙏 Acknowledgements
-The evaluation scripts in this repository were built on top of the excellent work from the [NoisyRollout](https://github.com/NUS-TRAIL/NoisyRollout) repository. We gratefully acknowledge the authors of this project for their contributions.
+* The training codes are built on [EasyR1](https://github.com/hiyouga/EasyR1)
+* The evaluation scripts in this repository were built on top of the excellent work from the [NoisyRollout](https://github.com/NUS-TRAIL/NoisyRollout) repository.
+We gratefully acknowledge the authors of this project for their contributions.
 
